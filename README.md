@@ -6,6 +6,7 @@ Example values:
   Input:   
     19 2 5 11  
     8 1 2 3 4 5 6 1 2  
+      
   Output:  
     2 5 11 19  
     1 1 2 2 3 4 5 6   
